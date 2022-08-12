@@ -1,0 +1,35 @@
+*{
+    padding-bottom: 3px;
+    padding-top: 2px;
+}
+
+.navbar {
+    background-image: url(../../../assets/images/fondonavbar.jpg);
+    background-position: center;
+    width: 100%;
+    padding: 0px;
+}
+
+h6 {
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    color: #FDFEFE;
+    justify-content: center;
+    padding-top: 10px;
+    
+}
+ul{
+    display: inline;
+    text-align: right;
+    padding: 2px;
+    width: 100%;
+
+}
+li{
+    padding: 2px;
+    display: inline;
+}
+#logo {
+    width: 30px;
+    height: 30px;
+}

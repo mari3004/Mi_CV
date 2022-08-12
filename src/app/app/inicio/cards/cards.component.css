@@ -1,0 +1,86 @@
+.info {
+    padding: 5px;
+    text-align: center;
+    box-shadow: 10px 5px 5px #27018D;
+    border-radius:15px;
+    margin: 10px auto;
+    color: white;
+    background-image: url(../../../../assets/images/info.jpg);
+    width: 350px;
+}
+.infoedu {
+    padding: 5px;
+    text-align: center;
+    box-shadow: 10px 5px 5px #27018D;
+    border-radius:15px;
+    margin: 10px auto;
+    color: white;
+    background-image: url(../../../../assets/images/educacion.jpg);
+    width: 350px;
+}
+.infoexp {
+    padding: 5px;
+    text-align: center;
+    box-shadow: 10px 5px 5px #27018D;
+    border-radius:15px;
+    margin: 10px auto;
+    color: white;
+    background-image: url(../../../../assets/images/experiencia.jpg);
+    width: 350px;
+}
+h1 {
+    text-decoration: underline;
+}
+p{
+    padding:5px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+.rrhh {
+    padding: 5px;
+    text-align: center;
+    box-shadow: 10px 5px 5px #27018D;
+    border-radius:15px;
+    margin: 10px;
+    color: black;
+    background-image: url(../../../../assets/images/rrhh.jpg);
+    opacity: 0.7;
+    background-position: 50% 50%;
+    width: 350px;
+    height: 300px;
+}
+.dev {
+    padding: 5px;
+    text-align: center;
+    box-shadow: 10px 5px 5px #27018D;
+    border-radius:15px;
+    margin: 10px;
+    color: white;
+    background-image: url(../../../../assets/images/dev.jpg);
+    width: 350px;
+    height: 300px;
+}
+
+.data {
+    padding: 5px;
+    text-align: center;
+    box-shadow: 10px 5px 5px #27018D;
+    border-radius:15px;
+    margin: 10px;
+    color: black;
+    background-image: url(../../../../assets/images/data.jpg);
+    background-position: 50% 50%;
+    opacity: 0.6;
+    width: 350px;
+    height: 300px;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+#texto-foto {
+    font-family: 'Lobster';
+    font-weight:bold;
+    color: red;
+    margin: 0px;
+}

@@ -1,0 +1,40 @@
+.seccion{
+    background-image: url(../../../assets/images/fondo.jpg);
+    color: white;
+    font-family: 'Lobster', cursive;
+    padding: 5px;
+}
+
+#separador {
+    width: 100%;
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+img {
+    display: block;
+    margin: auto;
+    
+}
+.row .card-body {
+    padding-left: 170px;
+    flex: 0 1 auto;
+}
+.agira {
+    max-width:600px; 
+    max-height:1500px; 
+    width: auto; 
+    height: auto;
+    display: block;
+    padding-left: 150px;
+}
+.toyo {
+    max-width:400px; 
+    max-height:400px; 
+    width: auto; 
+    height: auto;
+    display: block;
+    padding-left: 150px;
+}

@@ -11,9 +11,9 @@ import { InicioComponent } from './app/inicio/inicio.component';
 import { FooterComponent } from './app/footer/footer.component';
 import { CarruselComponent } from './app/inicio/carrusel/carrusel.component';
 import { CardsComponent } from './app/inicio/cards/cards.component';
-import { PersonalComponent } from './personal/personal.component';
-import { ExperienceComponent } from './experience/experience.component';
-import { EducationComponent } from './education/education.component';
+import { PersonalComponent } from './app/personal/personal.component';
+import { ExperienceComponent } from './app/experience/experience.component';
+import { EducationComponent } from './app/education/education.component';
 
 @NgModule({
   declarations: [

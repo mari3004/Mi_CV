@@ -4,9 +4,9 @@ import { DataComponent } from './app/data/data.component';
 import { DevComponent } from './app/dev/dev.component';
 import { InicioComponent } from './app/inicio/inicio.component';
 import { RrhhComponent } from './app/rrhh/rrhh.component';
-import { EducationComponent } from './education/education.component';
-import { ExperienceComponent } from './experience/experience.component';
-import { PersonalComponent } from './personal/personal.component';
+import { EducationComponent } from './app/education/education.component';
+import { ExperienceComponent } from './app/experience/experience.component';
+import { PersonalComponent } from './app/personal/personal.component';
 
 
 const routes: Routes = [

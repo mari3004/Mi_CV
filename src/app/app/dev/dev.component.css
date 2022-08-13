@@ -1,0 +1,18 @@
+a{
+    text-decoration: none !important;
+    color: white;
+}
+
+.cardc {
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 13px
+}
+
+.tarjeta {
+    border: 2px solid;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    
+}

@@ -35,3 +35,11 @@ li{
     width: 30px;
     height: 30px;
 }
+.botonnav {
+    background-color: transparent;
+    border-radius:2px, solid;
+    font-size: 15px;
+    font-style: bold;
+    color: black;
+    
+}

@@ -36,7 +36,7 @@ import { ExpRrhhComponent } from './app/experience/exp-rrhh/exp-rrhh.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    RouterModule
+    RouterModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

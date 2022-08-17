@@ -10,14 +10,14 @@ import { PersonalComponent } from './app/personal/personal.component';
 
 
 const routes: Routes = [
-  { path: 'inicio', component: InicioComponent },
+  { path: '', component: InicioComponent },
   { path: 'rrhh', component: RrhhComponent },
   { path: 'dev', component: DevComponent },
   { path: 'data', component: DataComponent},
   { path: 'information', component: PersonalComponent},
   { path: 'education', component: EducationComponent},
   { path: 'experience', component:ExperienceComponent},
-  { path: '**', redirectTo: 'inicio', pathMatch: 'full'},
+  { path: '**', redirectTo: '', pathMatch: 'full'},
 
 ];
 

@@ -84,3 +84,10 @@ a:link, a:visited, a:active {
     color: red;
     margin: 0px;
 }
+@media (max-width: 755px){
+    .card {
+        height: 100%;
+        width: 100%;
+        margin: 5px;
+    }
+}

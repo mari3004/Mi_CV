@@ -43,3 +43,9 @@ li{
     color: black;
     
 }
+@media (max-width: 755px),(min-width: 255px) {
+    .titulo, .botones, .objetos {
+        text-align: center !important;
+    }
+
+}

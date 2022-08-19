@@ -27,3 +27,21 @@
     height: 150px;
     color: white;
 }
+.name {
+    display: inline-block;
+}
+@media (max-width: 755px){
+
+    img {
+        height: auto;
+        width: 100%;
+        max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        text-align: center !important;
+    }
+    iframe {
+        width:100%;
+        height:100%;
+    }
+}

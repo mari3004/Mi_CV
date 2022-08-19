@@ -1,18 +1,18 @@
 #perfil{
-    border: 5px solid #27018D;
+    border: 10px solid #27018D;
     border-radius: 250px;
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     align-items: center;
     text-align: center;
 }
 #titulo {
     color: white;
-    text-align: center !important;
+    text-align:center !important;
+    align-items: center !important;
     text-decoration: none;
     font-weight: bold;
     font-family: 'Lobster', cursive;
-    padding: 0px;
 }
 .carousel {
     align-items: center;
@@ -37,4 +37,15 @@ img {
 }
 #texto-foto {
     color: red;
+}
+@media (max-width: 755px){
+    .carousel{
+        display: none;
+    }
+    img {
+        height: 100%;
+        width: 100%;
+        border: 1px solid #27018D;
+        border-radius: 50px;
+    }
 }
